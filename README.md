@@ -1,3 +1,8 @@
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+world%2C+I'm+Kau%C3%A3+Santana;I'm+a+game+designer+and+programador" alt="Typing SVG" /></a>
+
+
+
 - 👋 Hi, I’m @kauacomk123
 - 📚 Atualmente, estou cursando tecnico de ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 - 👀 Estou interessado em programação, desenvolvimento de sistemas e arte digital...
