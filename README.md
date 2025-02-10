@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=007BFF&width=600&lines=Hello+World%2C+I'm+Kau%C3%A3+Santana;Game+Developer%2FDesigner;Programador+apaixonado+por+tecnologia!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=007BFF&width=600&lines=Hello+World%2C+I'm+Layarane+Le%C3%A3o;Backend+Developer;Programadora+apaixonada+por+tecnologia!" alt="Typing SVG" />
 </a>
 
 - 👋 Hi, I’m kaua Santana
