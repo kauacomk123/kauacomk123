@@ -12,7 +12,7 @@
 - 😄Pronomes: He/Him 🏳️‍🌈.
 - ⚡ Curiosidade: Meu jogo favorito é Genshin Impact e nao vivo sem fone de ouvido.
   
-Game Developer/Design
+### Game Developer/Design
 
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
