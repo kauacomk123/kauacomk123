@@ -3,10 +3,10 @@
 </a>
 
 - 👋 Hi, I’m kaua Santana
-- 📚 Atualmente, estou cursando tecnico em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+- 📚 Atualmente, estou cursando tecnico em DESENVOLVIMENTO DE SISTEMAS
 - 👀 Sou desenvolvedor FullStack,game designer e ilustrador...
 - 🌱 Estou desenvolvendo jogos utilizando a Unity como motor de jogo e programando em C# ...
-- 🔭 Estou estudando HTML, CSS, javascript,React e PYTHON no momento 💎♥️
+- 🔭 Estou estudando HTML, CSS, javascript,React e PHP no momento 💎♥️
 - 💞️ Estou procurando colaborar em projetos de desenvolvimento de sistemas ou games criativos...
 - 📫 Como me encontrar: https://www.linkedin.com/in/kau%C3%A3-santana-589083232/
 - 😄Pronomes: He/Him 🏳️‍🌈.
@@ -31,6 +31,8 @@
 ### Back-End
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 
@@ -43,9 +45,10 @@
 ### Minhas Redes
 
 <div align="left">
-  <a href="https://www.instagram.com/kaua_com.k/?hl=pt_BR" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  <a href="https://kauacomk.itch.io/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch.io&label=&color=FA5C5C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="itch.io logo" />
 </a>
+   
  <a href="mailto:kauasantana2707@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
 </a>
@@ -64,6 +67,7 @@
 
 ### Banco de Dados
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ###
 
