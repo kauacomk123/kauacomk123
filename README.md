@@ -71,8 +71,13 @@
 
 ###
 
-<img src="https://github-readme-stats.vercel.app/api?username=kauacomk123&show_icons=true&theme=dracula&token=SEU_TOKEN" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kauacomk123&layout=compact&theme=dracula&token=SEU_TOKEN" height="150"/>
+<div align="center">
+
+| <img src="https://github-readme-stats.vercel.app/api?username=kauacomk123&show_icons=true&theme=dracula" height="180"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kauacomk123&layout=compact&theme=dracula" height="180"/> |
+|---|---|
+
+</div>
+
 
 
 ###
