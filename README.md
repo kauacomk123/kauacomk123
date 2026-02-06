@@ -5,9 +5,8 @@
 - 👋 Hi, I’m kaua Santana
 - 📚 Atualmente, estou cursando tecnico em DESENVOLVIMENTO DE SISTEMAS
 - 👀 Sou desenvolvedor FullStack,game designer e ilustrador...
-- 🌱 Estou desenvolvendo jogos utilizando a Unity como motor de jogo e programando em C# ...
-- 🔭 Estou estudando HTML, CSS, javascript,React e PHP no momento 💎♥️
-- 💞️ Estou procurando colaborar em projetos de desenvolvimento de sistemas ou games criativos...
+- 🔭 Estou estudando Python,SQL,MySQL,AWS
+- 💞️ Estou procurando colaborar em projetos de desenvolvimento e analise de dados
 - 📫 Como me encontrar: https://www.linkedin.com/in/kau%C3%A3-santana-589083232/
 - 😄Pronomes: He/Him 🏳️‍🌈.
 - ⚡ Curiosidade: Meu jogo favorito é Genshin Impact e nao vivo sem fone de ouvido.
