@@ -12,10 +12,10 @@ Olá! Sou apaixonado por tecnologia e movido pelo desafio de transformar dados b
 
 Foco meus esforços acadêmicos na construção de projetos práticos e laboratórios estruturados, buscando minha primeira oportunidade no mercado de tecnologia como Desenvolvedor Fullstack Júnior ou na área de Dados/Nuvem.
 
-- 🎓 Cursando **Técnico em Desenvolvimento de Sistemas**.
+- 🎓 Formação **Técnico em Desenvolvimento de Sistemas**.
 - ☁️ Especializando-me em Cloud Computing pelo programa **AWS re/Start**.
 - 🏆 Concluí o bootcamp **Santander 2025 - Ciência de Dados com Python** (63 horas intensivas dominando análise de dados, algoritmos e bibliotecas essenciais).
-- 💻 Dedicado à construção de **projetos práticos autorais** utilizando React, JavaScript, TypeScript e consumo de APIs.
+- 💻 Dedicado à construção de **projetos práticos autorais** utilizando React, JavaScript,PHP, TypeScript e consumo de APIs.
 - 🛠️ Experiência em laboratórios práticos de Nuvem: **AWS EC2, S3 e Segurança (IAM)**.
 - 🗳️ **Voluntariado:** Atuei como Mesário Eleitoral, exercendo cidadania e colaboração.
 - 🏳️‍🌈 Pronomes: Ele/Dele.
