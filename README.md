@@ -57,14 +57,11 @@ Olá! Sou apaixonado por tecnologia e movido pelo desafio de transformar ideias 
 ### 📬 Conecte-se comigo
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kau%C3%A3-santana-589083232/" target="_blank">
+  <a href="https://www.linkedin.com/in/kaua-santana/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
   <a href="mailto:kauasantana2707@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://kauacomk.itch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
   </a>
 </div>
 
